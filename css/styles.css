@@ -3,19 +3,18 @@ img{
     margin: 0 auto;
   }
   h1{
-    display: table;
-    margin: 0 auto;
+    
+    color: #66BF8F;
   }
   h1{font: italic;}
-  h1{text-align: center;}
-  h3{text-align: center;}
+  h3{
+     color: #66BF8F;
+  }
+  h3{color: #66BF8F;}
 body {
     background-color: #EAF6F6
   }
-  ul {
-    display: table;
-    margin: 0 auto;
-    }
+  
   hr{
     border-style:  none ;
     border-top-style: dotted;
